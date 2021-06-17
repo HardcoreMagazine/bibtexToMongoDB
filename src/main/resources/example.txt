@@ -1,0 +1,25 @@
+@book{samuel2017programming,
+    title={Programming kotlin},
+    author={Samuel, Stephen and Bocutiu, Stefan},
+    year={2017},
+    publisher={Packt Publishing Ltd}
+}
+@article{späth_2019,
+    title={Your First Kotlin Application: Hello Kotlin},
+    journal={Learn Kotlin for Android Development},
+    author={Späth, Peter},
+    year={2019}
+}
+@article{java®_for_dummies®_2011,
+    title={All about Java},
+    journal={Java® For Dummies®},
+    year={2011}
+}
+
+@article{nedoria_2019,
+    title={Language Design: OOP or not OOP or better OOP},
+    DOI={10.15514/ispras-2019-31(5)-6},
+    journal={Proceedings of the Institute for System Programming of the RAS},
+    author={Nedoria, A.e.},
+    year={2019}
+}
